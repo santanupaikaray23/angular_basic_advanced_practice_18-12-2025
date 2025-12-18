@@ -1,0 +1,31 @@
+Angular
+---------
+Angular is a development platform for building a single page application for mobile and desktop.
+
+Angular is a javascript framework and written using typescript.
+
+It uses typescript and HTML to build application.
+
+It comes with features like components, directives, forms, pipes, services, dependency injections etc.
+
+Angular Versions
+----------------
+Early version of Angular was naed as Angular2 later it was renamed to Angular.
+
+Angular developed and maintained by google. It has a large community due to which we can find help on web easily.
+
+Features of Angular
+--------------------
+1. Two-way Databinding - Changes made in the view is automatically updated in the components
+class and vice versa.
+
+2.Powerful routing support - Angular powerful routing engine loads the page asynchronously on the 
+same page enabling us to create a single page application.
+
+3.Excressive HTML - Angular enables us to use programming conscructs like if conditions, for loop,
+etc..to render and control how html page looks and works.
+
+4. Modular by Design - Angular follows modular design. we can create angular modules to better
+organize and manage our codebase.
+
+
