@@ -1,11 +1,16 @@
-import { Component, signal } from '@angular/core';
+import { Component} from '@angular/core';
 
 @Component({
   selector: 'app-root',
-  templateUrl: './app.html',
+  template: `<div><h1>This is inline HTML</h1></div>`,
   standalone: false,
-  styleUrl: './app.css'
+  styles: ['h1{color:blue;}']
 })
 export class App {
-  protected readonly title = signal('angular_basic_advanced_practice_18-12-2025');
+ title ="Santanu Paikaray";
+ name = "Checking"
+
+ displayName(){
+  return this.name;
+ }
 }
