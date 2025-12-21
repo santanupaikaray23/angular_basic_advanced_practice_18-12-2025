@@ -51,6 +51,6 @@ Import Statement is used to import the libraries that are used in our component 
  Component is a simple class we define it using the export keyword.
 
  
-completed video: 39
+completed video: 47
 
 

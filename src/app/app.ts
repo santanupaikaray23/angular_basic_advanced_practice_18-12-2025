@@ -10,7 +10,11 @@ export class App {
  title ="Santanu Paikaray";
  name = "Checking"
 
+ firstName="Uma"
+ lastName="Mahesh"
+
  displayName(){
   return this.name;
  }
 }
+
